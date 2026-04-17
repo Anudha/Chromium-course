@@ -1,0 +1,17 @@
+
+Start by asking: "What do you think Chrome is?"
+
+Push students:
+- UI? Wrong.
+- It's a scheduler, resource manager, sandbox.
+
+Key line:
+"Chrome is Kubernetes for untrusted code."
+
+Walk through:
+- Tabs = tenants
+- Processes = containers
+- IPC = network
+
+Demo setup:
+Open Chrome task manager and compare processes.

@@ -1,0 +1,6 @@
+
+0–10 min: Intro + framing
+10–25: Process exploration demo
+25–45: Architecture explanation
+45–70: Control plane analogy
+70–90: Discussion + Q&A

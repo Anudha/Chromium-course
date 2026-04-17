@@ -1,0 +1,18 @@
+
+TITLE: Chromium as a Distributed System
+
+Slide 1:
+- What is a browser?
+- Not UI — system
+
+Slide 2:
+- Multi-process architecture
+- Isolation + scheduling
+
+Slide 3:
+- Thesis:
+Chromium = distributed system on one machine
+
+Slide 4:
+- Control planes vs data planes
+- Browser = control plane for web execution

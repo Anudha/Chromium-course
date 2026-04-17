@@ -1,0 +1,8 @@
+
+Assignment:
+Observe Chrome processes and write analysis.
+
+Rubric:
+- Understanding architecture (40%)
+- Clarity (30%)
+- Insight (30%)
