@@ -2,7 +2,7 @@
 
 **Weeks 9–10 · Lectures 17–20**
 
-This unit is about why Chromium is structured the way it is from a security perspective, and how the mechanisms that enforce that structure actually work. Students leaving Unit IV should be able to reason from first principles about what an attacker with a renderer compromise can and cannot do — and cite the specific mechanism that stops each action.
+This unit is about why Chromium is structured the way it is from a security perspective, and how the mechanisms that enforce that structure  work. Students leaving Unit IV should be able to reason from first principles about what an attacker with a renderer compromise can and cannot do — and cite the specific mechanism that stops each action.
 
 The four lectures form a deliberate arc:
 
