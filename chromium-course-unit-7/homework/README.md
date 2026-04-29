@@ -1,0 +1,42 @@
+# Homework Assignments
+
+13 weekly assignments + final project. Homework is skipped on midterm weeks (6 and 11).
+
+All assignments are designed to be **AI-resistant** — students can use AI assistants for help, but the deliverables (machine-specific traces, patches that must compile, real line numbers in Code Search, video demos) cannot be plausibly produced by AI alone.
+
+## Schedule
+
+| # | Week | Topic | Status |
+|---|---|---|---|
+| [HW01](./HW01-browser-forensics.md) | 1 | Browser Forensics | Ready |
+| [HW02](./HW02-the-build.md) | 2 | The Build | Ready |
+| [HW03](./HW03-code-archaeology.md) | 3 | Code Archaeology | Ready |
+| [HW04](./HW04-parser-pathology.md) | 4 | Parser Pathology | Ready |
+| [HW05](./HW05-style-profiling.md) | 5 | Style Profiling | Ready |
+| [HW06](./HW06-layout-thrashing.md) | 6 | Layout Thrashing | Ready |
+| — | 6 | *Midterm 1 week — no HW* | |
+| [HW07](./HW07-v8-microscope.md) | 7 | V8 Under the Microscope | Ready |
+| [HW08](./HW08-embedding-v8.md) | 8 | Embedding V8 | Ready |
+| [HW09](./HW09-process-zoo.md) | 9 | Process Zoo | Ready |
+| [HW10](./HW10-read-a-mojom.md) | 10 | Read a .mojom | Ready |
+| [HW11](./HW11-netlog-safari.md) | 11 | Netlog Safari + Storage Forensics | Ready |
+| — | 11 | *Midterm 2 week — no HW* | |
+| [HW12](./HW12-webgpu-molecular-viewer.md) | 12 | Molecular Viewer in WebGPU | Ready |
+| [HW13](./HW13-device-api-or-pwa.md) | 13 | Device API or PWA | Ready |
+| Final Project | 13–14 | Three tracks (see syllabus) | |
+
+## Submission format
+
+Each assignment is submitted as a git repo (or course LMS equivalent) containing:
+
+- A `README.md` with your name, unityID, and the assignment number
+- All required deliverables (screenshots, code, traces, write-up)
+- An `AI-USAGE.md` file listing any AI assistance used, per the course policy
+
+## Grading rubric (standard)
+
+| Component | Weight |
+|---|---|
+| Correctness of technical deliverable | 60% |
+| Clarity of write-up | 25% |
+| Reproducibility (can the grader re-run your experiment?) | 15% |
